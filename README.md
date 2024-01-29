@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Furkan Erçin
 
 I'm a frontend developer passionate about building user-friendly and visually appealing web applications. Welcome to my GitHub profile!
 
